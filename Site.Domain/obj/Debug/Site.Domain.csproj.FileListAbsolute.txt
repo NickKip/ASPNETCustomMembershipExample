@@ -1,0 +1,5 @@
+E:\Projects\CustomMembership\CustomMembershipExample\Site.Domain\bin\Debug\Site.Domain.dll
+E:\Projects\CustomMembership\CustomMembershipExample\Site.Domain\bin\Debug\Site.Domain.pdb
+E:\Projects\CustomMembership\CustomMembershipExample\Site.Domain\obj\Debug\Site.Domain.csprojResolveAssemblyReference.cache
+E:\Projects\CustomMembership\CustomMembershipExample\Site.Domain\obj\Debug\Site.Domain.dll
+E:\Projects\CustomMembership\CustomMembershipExample\Site.Domain\obj\Debug\Site.Domain.pdb
